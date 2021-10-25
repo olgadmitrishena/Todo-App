@@ -1,0 +1,9 @@
+.bottom-panel {
+    margin-top: 20px;
+  }
+  
+  .botton-panel .new-todo-label {
+    width: auto;
+    flex-grow: 2;
+    margin-right: 10px;
+  }
